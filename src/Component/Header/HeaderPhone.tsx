@@ -7,7 +7,7 @@ import menu from '../../assets/menu.png';
 export const HeaderPhone: React.FC = () => {
   const [isOpen, setIsOpen] = useState(false);
   return (
-    <header className='w-full flex py-10 lg:hidden px-16'>
+    <header className='w-full flex py-10 lg:hidden px-10'>
       <div className='flex items-center justify-between gap-8 w-full'>
         <img src={logo} alt="Logo Lemine Mahjoub" className='w-12 h-12'  style={{ filter: 'drop-shadow(0 0 6px #6600F8)' }}/>
         <button className='w-fit h-fit drop-shadow-lg' style={{ filter: 'drop-shadow(0 0 6px #FFFFFF)' }} onClick={() => setIsOpen(true)}>

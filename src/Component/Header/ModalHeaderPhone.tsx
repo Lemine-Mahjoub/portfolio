@@ -37,9 +37,9 @@ export const ModalHeaderPhone: React.FC<ModalHeaderPhoneProps> = ({ setIsOpen })
                     </motion.button>
                 ))}
             </div>
-            <div className='flex w-full px-4'>
+            <div className='flex w-full px-4 items-center justify-center'>
                 <motion.button
-                    className='text-white text-lg font-light bg-primary w-full py-3 rounded-full hover:bg-primary/50 transition-all duration-300'
+                    className='text-white text-lg font-light bg-primary w-full py-3 rounded-full hover:bg-primary/50 transition-all duration-300 max-w-[500px]'
                     style={{ filter: 'drop-shadow(0 0 6px #6600F8)' }}
                     initial={{ opacity: 0, y: '100px' }}
                     animate={{ opacity: 1, y: 0 }}
