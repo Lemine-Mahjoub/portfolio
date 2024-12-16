@@ -1,3 +1,7 @@
-.background-layout{
-  background: linear-gradient(192deg, #000000 0%, #130048 100%) fixed;
+.background-layout {
+	background: #121212;
+}
+
+* {
+    font-family: 'Montserrat', sans-serif;
 }

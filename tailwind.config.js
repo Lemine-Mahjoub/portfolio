@@ -9,29 +9,17 @@ module.exports = {
   ],
   prefix: "",
   theme: {
-    container: {
-      center: true,
-      padding: "2rem",
-      screens: {
-        "2xl": "1400px",
-      },
-    },
     extend: {
-      keyframes: {
-        "accordion-down": {
-          from: { height: "0" },
-          to: { height: "var(--radix-accordion-content-height)" },
-        },
-        "accordion-up": {
-          from: { height: "var(--radix-accordion-content-height)" },
-          to: { height: "0" },
-        },
-      },
-      animation: {
-        "accordion-down": "accordion-down 0.2s ease-out",
-        "accordion-up": "accordion-up 0.2s ease-out",
+      colors: {
+        primary: '#6600F8',
+        primary_light: '#D3BFFF',
+        white: '#F5F5F5',
+        white_light: '#E0E0E0',
+        grey_light: '#d4d4d4',
+        grey_dark: '#a3a3a3',
+        grey_darker: '#525252',
       },
     },
   },
-  plugins: [require("tailwindcss-animate")],
+  plugins: [],
 }
