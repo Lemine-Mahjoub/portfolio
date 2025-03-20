@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-template/static/css/main.f03538c4.css",
+    "main.js": "/react-portfolio-template/static/js/main.669f9aa3.js",
+    "static/media/pfp.png": "/react-portfolio-template/static/media/pfp.b5a25a85b8195b1441f7.png",
+    "static/media/bg-light.png": "/react-portfolio-template/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/Distant.png": "/react-portfolio-template/static/media/Distant.61ebac349759f05b1e34.png",
+    "static/media/StellarFloz.webp": "/react-portfolio-template/static/media/StellarFloz.611fcb1d80e1144cbe78.webp",
+    "static/media/bg-dark.png": "/react-portfolio-template/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/Eduprime.png": "/react-portfolio-template/static/media/Eduprime.d8775d0d58081d8c1cb6.png",
+    "static/media/RedstoneFormation.png": "/react-portfolio-template/static/media/RedstoneFormation.11678cf10a663abdb46c.png",
+    "index.html": "/react-portfolio-template/index.html",
+    "main.f03538c4.css.map": "/react-portfolio-template/static/css/main.f03538c4.css.map",
+    "main.669f9aa3.js.map": "/react-portfolio-template/static/js/main.669f9aa3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f03538c4.css",
+    "static/js/main.669f9aa3.js"
+  ]
+}
